@@ -1,0 +1,296 @@
+Å´transitions⁄Ø[
+ {
+  "clas": 0,
+  "move": 1,
+  "label": "Name",
+  "name": "B-Name"
+ },
+ {
+  "clas": 1,
+  "move": 2,
+  "label": "Name",
+  "name": "I-Name"
+ },
+ {
+  "clas": 2,
+  "move": 3,
+  "label": "Name",
+  "name": "L-Name"
+ },
+ {
+  "clas": 3,
+  "move": 4,
+  "label": "Name",
+  "name": "U-Name"
+ },
+ {
+  "clas": 4,
+  "move": 1,
+  "label": "Primary skills",
+  "name": "B-Primary skills"
+ },
+ {
+  "clas": 5,
+  "move": 2,
+  "label": "Primary skills",
+  "name": "I-Primary skills"
+ },
+ {
+  "clas": 6,
+  "move": 3,
+  "label": "Primary skills",
+  "name": "L-Primary skills"
+ },
+ {
+  "clas": 7,
+  "move": 4,
+  "label": "Primary skills",
+  "name": "U-Primary skills"
+ },
+ {
+  "clas": 8,
+  "move": 1,
+  "label": "University",
+  "name": "B-University"
+ },
+ {
+  "clas": 9,
+  "move": 2,
+  "label": "University",
+  "name": "I-University"
+ },
+ {
+  "clas": 10,
+  "move": 3,
+  "label": "University",
+  "name": "L-University"
+ },
+ {
+  "clas": 11,
+  "move": 4,
+  "label": "University",
+  "name": "U-University"
+ },
+ {
+  "clas": 12,
+  "move": 1,
+  "label": "Education",
+  "name": "B-Education"
+ },
+ {
+  "clas": 13,
+  "move": 2,
+  "label": "Education",
+  "name": "I-Education"
+ },
+ {
+  "clas": 14,
+  "move": 3,
+  "label": "Education",
+  "name": "L-Education"
+ },
+ {
+  "clas": 15,
+  "move": 4,
+  "label": "Education",
+  "name": "U-Education"
+ },
+ {
+  "clas": 16,
+  "move": 1,
+  "label": "com",
+  "name": "B-com"
+ },
+ {
+  "clas": 17,
+  "move": 2,
+  "label": "com",
+  "name": "I-com"
+ },
+ {
+  "clas": 18,
+  "move": 3,
+  "label": "com",
+  "name": "L-com"
+ },
+ {
+  "clas": 19,
+  "move": 4,
+  "label": "com",
+  "name": "U-com"
+ },
+ {
+  "clas": 20,
+  "move": 1,
+  "label": "Companies worked at",
+  "name": "B-Companies worked at"
+ },
+ {
+  "clas": 21,
+  "move": 2,
+  "label": "Companies worked at",
+  "name": "I-Companies worked at"
+ },
+ {
+  "clas": 22,
+  "move": 3,
+  "label": "Companies worked at",
+  "name": "L-Companies worked at"
+ },
+ {
+  "clas": 23,
+  "move": 4,
+  "label": "Companies worked at",
+  "name": "U-Companies worked at"
+ },
+ {
+  "clas": 24,
+  "move": 1,
+  "label": "Secondary skills",
+  "name": "B-Secondary skills"
+ },
+ {
+  "clas": 25,
+  "move": 2,
+  "label": "Secondary skills",
+  "name": "I-Secondary skills"
+ },
+ {
+  "clas": 26,
+  "move": 3,
+  "label": "Secondary skills",
+  "name": "L-Secondary skills"
+ },
+ {
+  "clas": 27,
+  "move": 4,
+  "label": "Secondary skills",
+  "name": "U-Secondary skills"
+ },
+ {
+  "clas": 28,
+  "move": 1,
+  "label": "Email",
+  "name": "B-Email"
+ },
+ {
+  "clas": 29,
+  "move": 2,
+  "label": "Email",
+  "name": "I-Email"
+ },
+ {
+  "clas": 30,
+  "move": 3,
+  "label": "Email",
+  "name": "L-Email"
+ },
+ {
+  "clas": 31,
+  "move": 4,
+  "label": "Email",
+  "name": "U-Email"
+ },
+ {
+  "clas": 32,
+  "move": 1,
+  "label": "Phoneno",
+  "name": "B-Phoneno"
+ },
+ {
+  "clas": 33,
+  "move": 2,
+  "label": "Phoneno",
+  "name": "I-Phoneno"
+ },
+ {
+  "clas": 34,
+  "move": 3,
+  "label": "Phoneno",
+  "name": "L-Phoneno"
+ },
+ {
+  "clas": 35,
+  "move": 4,
+  "label": "Phoneno",
+  "name": "U-Phoneno"
+ },
+ {
+  "clas": 36,
+  "move": 1,
+  "label": "DOB",
+  "name": "B-DOB"
+ },
+ {
+  "clas": 37,
+  "move": 2,
+  "label": "DOB",
+  "name": "I-DOB"
+ },
+ {
+  "clas": 38,
+  "move": 3,
+  "label": "DOB",
+  "name": "L-DOB"
+ },
+ {
+  "clas": 39,
+  "move": 4,
+  "label": "DOB",
+  "name": "U-DOB"
+ },
+ {
+  "clas": 40,
+  "move": 1,
+  "label": "Location",
+  "name": "B-Location"
+ },
+ {
+  "clas": 41,
+  "move": 2,
+  "label": "Location",
+  "name": "I-Location"
+ },
+ {
+  "clas": 42,
+  "move": 3,
+  "label": "Location",
+  "name": "L-Location"
+ },
+ {
+  "clas": 43,
+  "move": 4,
+  "label": "Location",
+  "name": "U-Location"
+ },
+ {
+  "clas": 44,
+  "move": 1,
+  "label": "Primary skill",
+  "name": "B-Primary skill"
+ },
+ {
+  "clas": 45,
+  "move": 2,
+  "label": "Primary skill",
+  "name": "I-Primary skill"
+ },
+ {
+  "clas": 46,
+  "move": 3,
+  "label": "Primary skill",
+  "name": "L-Primary skill"
+ },
+ {
+  "clas": 47,
+  "move": 4,
+  "label": "Primary skill",
+  "name": "U-Primary skill"
+ },
+ {
+  "clas": 48,
+  "move": 5,
+  "label": "",
+  "name": "O"
+ }
+]

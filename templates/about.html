@@ -1,0 +1,14 @@
+<html>
+   <head> 
+	<title>UPLOAD RESUME</title>
+	<h3>UPLOAD YOUR RESUME HERE</h3>
+   </head>		
+   <body>
+	<p> Resumes with only .pdf and .docx extensions supported. </p>
+      <form action = "http://127.0.0.1:5000/uploader" method = "POST" 
+         enctype = "multipart/form-data">
+         <input type = "file" name = "file" />
+         <input type = submit value=Upload>
+      </form>
+   </body>
+</html>
